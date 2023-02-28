@@ -3,7 +3,12 @@
 //     console.log(array[i]);
 // }
 
-var items = ['bottles', 'sunglass', 'burger'];
-for (var i = 0; i<items.length; i++){
-    console.log(items[i]);
+// var items = ['bottles', 'sunglass', 'burger'];
+// for (var i = 0; i<items.length; i++){
+//     console.log(items[i]);
+// }
+
+var lol = 10;
+for (var i=10; i>0; i--){
+    console.log(i);
 }
